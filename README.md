@@ -122,7 +122,7 @@ javac -d bin -cp src @sources.txt
 cd bin
 java ECommerceDemo
 
-
+```
 ## Design Patterns Used
 
 - **Template Method**: Abstract product classes define common behavior
